@@ -1,5 +1,5 @@
 # Projet Transformation – Conception de Pipelines
-Projet réaliser par : Issmail KHOUYI - Ilias ERRAZI – Melek JENDOUBI.
+Projet réaliser par : Issmail KHOUYI - Ilias ERRAZI – Melek JENDOUBI - Manal JAWHAR.
 
 Ce projet est un pipeline ETL (Extract, Transform, Load) développé en Python.  
 Il a été réalisé dans le cadre d’un TP de l’unité "Conception de pipelines de données" à l’EPSI.
